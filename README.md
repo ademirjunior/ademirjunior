@@ -1,5 +1,9 @@
 # 💫 About Me:
-- 🔭 I’m currently working on <br>- 🌱 I’m currently learning cloud services<br>- 👯 I’m looking to collaborate on opne source projects<br>- 📫 How to reach me: ademiralcojr@gmail.com<br>- ⚡ Fun fact: Love playing eletric guitar
+- 🔭 I’m currently working at Global Hitss <br>
+- 🌱 I’m currently learning cloud services<br>
+- 👯 I’m looking to collaborate on opne source projects<br>
+- 📫 How to reach me: ademiralcojr@gmail.com<br>
+- ⚡ Fun fact: Love playing eletric guitar
 
 
 ## 🌐 Socials:
